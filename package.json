@@ -17,6 +17,10 @@
   ],
   "author": "huliyou",
   "license": "MIT",
+  "bin": {
+    "rc-tools": "./bin/rc-tools.js",
+    "rc-tools-run": "./bin/rc-tools-run.js"
+  },
   "devDependencies": {
     "babel-eslint": "^7.1.0",
     "cz-conventional-changelog": "^1.2.0",
