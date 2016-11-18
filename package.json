@@ -1,6 +1,6 @@
 {
   "name": "rrn-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "react and react-native cli",
   "main": "index.js",
   "scripts": {
