@@ -1,6 +1,6 @@
 {
   "name": "rrn-cli",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "react and react-native cli",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,8 @@
   "author": "huliyou",
   "license": "MIT",
   "bin": {
-    "rc-tools": "./bin/rc-tools.js",
-    "rc-tools-run": "./bin/rc-tools-run.js"
+    "rrn-cli": "./bin/rrn-cli.js",
+    "rrn-cli-run": "./bin/rrn-cli-run.js"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.0",
