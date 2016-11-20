@@ -13,3 +13,4 @@ rrn-cli run lint
 --js | eslint 检查 javascript 文件
 --fix | 自动 fix 项目中 eslint 可以解决的 error
 --flow | flow 检查 javascript 文件
+--css | stylelint 检查 css 文件
