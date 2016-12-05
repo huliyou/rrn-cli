@@ -3,10 +3,29 @@ rrn-cli
 react 和 react-native 项目的前端基础设施的命令行工具。
 
 ##  lint
+
+#### 依赖：
+eslint:
+```bash
+npm i -D elsint
+```
+
+flow:
+```bash
+brew install flow
+```
+
+stylelint:
+```bash
+npm install -g stylelint
+```
+
+
 #### 运行：
 ``` bash
 rrn-cli run lint
 ```
+
 #### 参数：
 参数 | 说明
 ------------- | -------------
